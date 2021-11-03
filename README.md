@@ -9,7 +9,9 @@ Sobre mim:
 ## Me encontre em qualquer rede por @oJoutace
 
 https://www.linkedin.com/in/ojoutace/
+
 https://twitter.com/oJoutace
+
 https://www.instagram.com/ojoutace/
 
 Atualmente estagiando para <a href=“https://auditore.com.br“>Auditore Ideias Estratégicas</a>
