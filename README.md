@@ -16,10 +16,10 @@ https://www.instagram.com/ojoutace/
 
 Atualmente estagiando para <a href=“https://auditore.com.br“>Auditore Ideias Estratégicas</a>
 
-Fatos sobre mim: 
+## Fatos sobre mim: 
 
 Sou musicista, toco alguns instrumentos de corda e começando a me aventurar com uma gaita.
+
 Gosto muito da natureza, principalmente répteis e aves.
+
 Pretendo conhecer os países nórdicos, me encanto com a cultura de lá, principalmente da Finlândia.
-
-
