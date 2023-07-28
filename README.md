@@ -14,7 +14,7 @@ https://twitter.com/oJoutace
 
 https://www.instagram.com/ojoutace/
 
-Atualmente sendo dev em Flutter para <a href=“https://auditore.com.br“>Auditore Ideias Estratégicas</a>
+Atualmente desenvolvendo em Angular para <a href=“https://auditore.com.br“>Auditore Ideias Estratégicas</a>
 
 
 
