@@ -1,20 +1,45 @@
+
 ## Hey Boss! 
 
-Sobre mim: 
+</p>
+<h3 align="left">Who am I:</h3>
 
-- Nascido em 1999 e desde sempre buscando novas experiências!
-- Dev Jr. em Node, Flutter e Angular, sempre buscando novas experiências e desafios.
-- Autodidata em quase tudo que aprendi, porém sabendo a hora de parar e pedir ajuda.
+<p align="left">
+My name is João, also known as <i><b>JC</b></i><br>
+  
+Just a JR. full stack developer trying to learn how to code solutions for everyone!<br>
 
-## Me encontre em qualquer rede por @oJoutace
+Always teaching myself new skills and experiences.
 
-https://www.linkedin.com/in/ojoutace/
+I'm 23 and live by myself in Foz do Iguaçu, PR
 
-https://twitter.com/oJoutace
+</p>
 
-https://www.instagram.com/ojoutace/
+<p align="left">
+ Currently working for <a href="https://auditore.com.br" target="_blank">Auditore Ideias Estratégicas</a>
+</p>
 
-Atualmente desenvolvendo em Angular para <a href=“https://auditore.com.br“>Auditore Ideias Estratégicas</a>
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36" height="36"/></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+</p>
+
+### Find me at:
+
+<p align="left">
+<a href="https://twitter.com/ojoutace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuikari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ojoutace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edipomaciel" height="30" width="40" /></a>
+<a href="https://instagram.com/ojoutace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuhikari" height="30" width="40" /></a>
+</p>
+
 
 
 
