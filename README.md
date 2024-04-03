@@ -6,12 +6,14 @@
 
 <p align="left">
 My name is João, also known as <i><b>JC</b></i><br>
-  
-Just a JR. full stack developer trying to learn how to code solutions for everyone!<br>
+
+Specialist in Angular and Flutter 
+
+A regular developer trying to learn how to code better solutions for everyone!<br>
 
 Always teaching myself new skills and experiences.
 
-I'm 23 and live by myself in Foz do Iguaçu, PR
+I'm 24 and live in Curitiba, PR
 
 </p>
 
