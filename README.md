@@ -5,7 +5,24 @@
 <h3 align="left">Who am I:</h3>
 
 <p align="left">
-My name is João, also known as <i><b>JC</b></i><br>
+
+ 👋 Hi, I'm João (aka <i><b>JC</b></i><br>)
+💻 Specialist in Angular and Flutter<br>
+I'm a passionate developer committed to crafting better solutions for everyone.<br>
+Continuously learning and improving, I thrive on expanding my skill set and exploring new technologies.
+
+🚀 About Me
+
+A regular developer on a mission to become extraordinary by solving real-world problems through clean, efficient code.
+Self-taught and always eager to take on new challenges and experiences.
+🎯 Quick Facts
+
+📍 Based in Curitiba, PR, Brazil.
+🎂 25 years old and excited about the endless possibilities of tech.
+Feel free to connect, collaborate, or just say hi! Let's build something amazing together.
+
+
+ My name is João, also known as <i><b>JC</b></i><br>
 
 Specialist in Angular and Flutter 
 
@@ -13,12 +30,12 @@ A regular developer trying to learn how to code better solutions for everyone!<b
 
 Always teaching myself new skills and experiences.
 
-I'm 24 and live in Curitiba, PR
+I'm 25 and live in Curitiba, PR
 
 </p>
 
 <p align="left">
- Currently working for <a href="https://auditore.com.br" target="_blank">Auditore Ideias Estratégicas</a>
+ Currently working for <a href=https://soluevo.com/" target="_blank">Soluevo</a>
 </p>
 
 ### Skills
