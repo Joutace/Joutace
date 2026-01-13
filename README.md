@@ -26,9 +26,6 @@ Feel free to connect, collaborate, or just say hi! Let's build something amazing
 
 </p>
 
-<p align="left">
- Currently working for <a href=https://soluevo.com/" target="_blank">Soluevo</a>
-</p>
 
 
 
