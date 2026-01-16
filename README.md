@@ -8,7 +8,7 @@
 
  👋 Hi, I'm João (aka <i><b>JC</b></i>)<br>
 
-💻 Specialist in Angular and Flutter<br>
+💻 Specialist in Flutter and Angular<br>
 
 I'm a passionate developer committed to crafting better solutions for everyone.<br>
 Continuously learning and improving, I thrive on expanding my skill set and exploring new technologies.
