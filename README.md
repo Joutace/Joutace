@@ -19,8 +19,7 @@ Self-taught and always eager to take on new challenges and experiences.
 
 🎯 Quick Facts
 
-📍 Based in Curitiba, PR, Brazil.<br>
-🎂 26 years old and excited about the endless possibilities of tech.<br>
+ 🎂 26 years old and excited about the endless possibilities of tech.<br>
 🎵 A musician at heart, blending creativity in both code and music.
 Feel free to connect, collaborate, or just say hi! Let's build something amazing together.
 
