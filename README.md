@@ -17,7 +17,7 @@ A mobile-focused developer constantly evolving — improving architecture decisi
 I thrive in challenging environments and enjoy building products that scale.
 
 🎯 Quick Facts  
-📱 4+ years working with mobile technologies  
+📱 5+ years working technology
 🧠 Strong focus on state management and modular architecture  
 🚀 Experience integrating mobile apps with scalable backend services  
 🎵 Musician at heart — creativity drives both my code and my life  
